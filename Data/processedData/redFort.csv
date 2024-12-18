@@ -1,0 +1,13 @@
+month,reviewCount,season
+January,0,Winter
+February,0,Spring
+March,0,Spring
+April,1,Spring
+May,0,Summer
+June,2,Summer
+July,4,Summer
+August,2,Monsoon
+September,4,Monsoon
+October,5,Monsoon
+November,0,Winter
+December,0,Winter
